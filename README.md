@@ -1,4 +1,5 @@
-## Hi there 👋
+Hello, my name is Isaac 🤙
+Software Developer - [my portfolio](https://isaacszf.vercel.app/)
 
 <!--
 **isaacszf/isaacszf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
